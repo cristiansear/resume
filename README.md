@@ -1,2 +1,2 @@
 # resume
-This is my resumen https://cristiansear.github.io/resume/
+This is my resume https://cristiansear.github.io/resume/
